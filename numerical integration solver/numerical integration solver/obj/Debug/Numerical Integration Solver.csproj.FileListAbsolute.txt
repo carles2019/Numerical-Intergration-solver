@@ -1,0 +1,7 @@
+C:\Users\Chitsungo\Downloads\numerical-integration-solver-uniproject-master (1)\numerical-integration-solver-uniproject-master\bin\Debug\Numerical Integration Solver.exe.config
+C:\Users\Chitsungo\Downloads\numerical-integration-solver-uniproject-master (1)\numerical-integration-solver-uniproject-master\bin\Debug\Numerical Integration Solver.exe
+C:\Users\Chitsungo\Downloads\numerical-integration-solver-uniproject-master (1)\numerical-integration-solver-uniproject-master\bin\Debug\Numerical Integration Solver.pdb
+C:\Users\Chitsungo\Downloads\numerical-integration-solver-uniproject-master (1)\numerical-integration-solver-uniproject-master\obj\Debug\Numerical Integration Solver.csprojAssemblyReference.cache
+C:\Users\Chitsungo\Downloads\numerical-integration-solver-uniproject-master (1)\numerical-integration-solver-uniproject-master\obj\Debug\Numerical Integration Solver.csproj.CoreCompileInputs.cache
+C:\Users\Chitsungo\Downloads\numerical-integration-solver-uniproject-master (1)\numerical-integration-solver-uniproject-master\obj\Debug\Numerical Integration Solver.exe
+C:\Users\Chitsungo\Downloads\numerical-integration-solver-uniproject-master (1)\numerical-integration-solver-uniproject-master\obj\Debug\Numerical Integration Solver.pdb
